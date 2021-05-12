@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: 欢迎来到于清晰的网站!
+email: fzxjava@126.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  李沛鸽咱们结婚吧.
 twitter_username: username
-github_username: username
+github_username: yqx2333
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "于清晰"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "你好我叫于清晰,是李沛鸽的男朋友."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
