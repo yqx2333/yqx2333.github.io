@@ -12,4 +12,4 @@ tags:
 测试文章添加图片 
 
 图片1:
- ![](../assets/images/shanhuAndmileg.png)
+ ![测试添加图片](../assets/images/犬夜叉.png)
