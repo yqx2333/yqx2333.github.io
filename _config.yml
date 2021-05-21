@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 欢迎来到于清晰的网站!
+title: 我们的未来
 email: fzxjava@126.com
 description: >- # this means to ignore newlines until "baseurl:"
-  李沛鸽咱们结婚吧.
+  我们的未来.
 twitter_username: username
 github_username: yqx2333
 minimal_mistakes_skin: default
@@ -56,10 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "于清晰"
+  name: "了无为"
   avatar: "/assets/images/inuyaxia.png"
-  bio: "你好我叫于清晰,是李沛鸽的男朋友."
-  location: "北京"
+  bio: "简单设计师一名."
+  location: "韩国 光州"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
