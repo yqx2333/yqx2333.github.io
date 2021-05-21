@@ -1,18 +1,22 @@
 ---
 title: "测试文章添加图片"
-last_modified_at: 2021-05-07T21:20:02-05:00
+last_modified_at: 2021-05-20T21:20:02-05:00
 categories:
   - Blog
 tags:
-  - 标签1
-  - 标签2
-  - 标签3
+  - 韩国
+  - 日常
+  - 生日
 ---
 
-测试文章添加图片 
+二十八岁啦,生日快乐呀~
 
-图片1:
- ![测试添加图片](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=233301930,3031623456&fm=11&gp=0.jpg)
+愿以后的日子,健康快乐,收获满满.
  
-图片2:
- ![测试添加图片](images/犬夜叉.png)
+ ![我的二十八岁](https://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEO.jlWhrbCrxpi02T6o1VIXR5b2oWaW0vsxWIhwn376qdznk0FRhWoajRhPf9mi.gTYhmc*Ojmo*yb5LcaAwbl4!/b&bo=OASgBTgEoAUBGT4!&rf=viewer_4)
+ 
+![我的二十八岁](https://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEMxf3zWkivr86teNT5lYiagIt0vD4bw59GkPxYGiu6uNvDeX5DSWYZyIrYU2bh9BouACY*36tP3Fc6VoBhepzaU!/b&bo=7gLoA.4C6AMBGT4!&rf=viewer_4)
+ 
+![我的二十八岁](https://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrECMheHzXslbdxlTU*3qpe3PcH9e5J.hHaANcVmjZbvDMvxCz8ZsBLMDnwTuJ0JpyUOe6JW3*sKhTW7q2Ssi2nOI!/b&bo=oAU4BKAFOAQBGT4!&rf=viewer_4)
+ 
+![我的二十八岁](https://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEL4xdRVRbVOL6byurXV6Je0hifYOZySh29vfrplQ3b4rgYl2effahwy2jYJnmWydLkDwBymEzmqti.aoKfS5N7o!/b&bo=oAU4BKAFOAQBKQ4!&rf=viewer_4)
