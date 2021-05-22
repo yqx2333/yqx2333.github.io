@@ -1,4 +1,5 @@
 ---
+<meta name="referrer" content="never">
 title: "무등산 계골 물소리 溪谷流水声"
 last_modified_at: 2021-05-28T21:20:02-05:00
 categories:
@@ -16,8 +17,7 @@ tags:
 <image src="http://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEO.jlWhrbCrxpi02T6o1VIXR5b2oWaW0vsxWIhwn376qdznk0FRhWoajRhPf9mi.gTYhmc*Ojmo*yb5LcaAwbl4!/b&bo=OASgBTgEoAUBGT4!&rf=viewer_4">
 <image src="http://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEO.jlWhrbCrxpi02T6o1VIXR5b2oWaW0vsxWIhwn376qdznk0FRhWoajRhPf9mi.gTYhmc*Ojmo*yb5LcaAwbl4!/b&bo=OASgBTgEoAUBGT4!&rf=viewer_4">
 <image src="http://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEO.jlWhrbCrxpi02T6o1VIXR5b2oWaW0vsxWIhwn376qdznk0FRhWoajRhPf9mi.gTYhmc*Ojmo*yb5LcaAwbl4!/b&bo=OASgBTgEoAUBGT4!&rf=viewer_4">
-
-
+<image src="http://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEO.jlWhrbCrxpi02T6o1VIXR5b2oWaW0vsxWIhwn376qdznk0FRhWoajRhPf9mi.gTYhmc*Ojmo*yb5LcaAwbl4!/b&bo=OASgBTgEoAUBGT4!&rf=viewer_4">
 
 **去看看我的故事吧**, `https://www.youtube.com/watch?v=CYSb_apm8cc&list=PL_Zl9GDuMziAO3-EGXaZEge3v_uqTl6Jx`
 
