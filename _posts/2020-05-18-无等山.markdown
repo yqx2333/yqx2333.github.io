@@ -8,9 +8,11 @@ tags:
   - 日常
   - 登山
 ---
+<meta name="referrer" content="never">
 
 无等山之行
 
+<image src="http://m.qpic.cn/psc?/V509PKEk2wDpi81CQ7hL126LGL092Uzy/TmEUgtj9EK6.7V8ajmQrEO.jlWhrbCrxpi02T6o1VIXR5b2oWaW0vsxWIhwn376qdznk0FRhWoajRhPf9mi.gTYhmc*Ojmo*yb5LcaAwbl4!/b&bo=OASgBTgEoAUBGT4!&rf=viewer_4">
 **去看看我的故事吧**, `https://www.youtube.com/watch?v=CYSb_apm8cc&list=PL_Zl9GDuMziAO3-EGXaZEge3v_uqTl6Jx` 
 
 > 无等山之行
